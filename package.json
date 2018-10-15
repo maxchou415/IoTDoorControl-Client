@@ -1,0 +1,17 @@
+{
+  "name": "iotdoorcontrol-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-mqtt": "^2.0.0",
+    "config": "^2.0.1",
+    "rpi-gpio": "^1.0.0"
+  }
+}
