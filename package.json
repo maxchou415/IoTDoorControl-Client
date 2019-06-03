@@ -12,6 +12,6 @@
   "dependencies": {
     "async-mqtt": "^2.0.0",
     "config": "^2.0.1",
-    "rpi-gpio": "^1.0.0"
+    "rpi-gpio": "^2.1.3"
   }
 }
